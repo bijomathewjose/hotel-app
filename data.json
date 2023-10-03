@@ -1,0 +1,92 @@
+{
+    "buildings":[
+        {
+            "type": "For Rent",
+            "address": "8558 Green Rd.",
+            "location": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27610",
+            "rooms":3,
+            "bedrooms": 4,
+            "bathrooms": 1,
+            "sqft": 732,
+            "price": 7255,
+            "imageUrl":"https://cdn.britannica.com/08/187508-050-D6FB5173/Shanghai-Tower-Gensler-San-Francisco-world-Oriental-2015.jpg"
+        },
+        {
+            "type": "For Rent",
+            "address": "8558 Pecan St.",
+            "location": "RCE Theaters 907 S Beckford Dr, Henderson, NC 27536",
+            "rooms": 3,
+            "bedrooms": 4,
+            "bathrooms": 1,
+            "sqft": 732,
+            "price": 7255,
+            "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dubai_Marina_Skyline.jpg/1200px-Dubai_Marina_Skyline.jpg"
+        },
+        {
+            "type": "For Rent",
+            "address": "8558 Parker Rd.",
+            "location": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+            "rooms": 3,
+            "bedrooms": 4,
+            "bathrooms": 1,
+            "sqft": 732,
+            "price": 7255,
+            "imageUrl":"https://media.istockphoto.com/id/511061090/photo/business-office-building-in-london-england.jpg?s=612x612&w=0&k=20&c=nYAn4JKoCqO1hMTjZiND1PAIWoABuy1BwH1MhaEoG6w="
+        },
+        {
+            "type": "For Sale",
+            "address": "3890 Poplar Dr.",
+            "location": "Regal North Hills -4150 Main at North Hills St, Releigh",
+            "rooms": 3,
+            "bedrooms": 4,
+            "bathrooms": 1,
+            "sqft": 732,
+            "price": 5256,
+            "imageUrl":"https://cdn.britannica.com/73/114973-050-2DC46083/Midtown-Manhattan-Empire-State-Building-New-York.jpg"
+        },
+        {
+            "type": "For Sale",
+            "address": "123 Main Street",
+            "location": "San Francisco, CA 94105",
+            "rooms": 4,
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "sqft": 1500,
+            "price": 100000,
+            "imageUrl":"https://cdn.britannica.com/08/187508-050-D6FB5173/Shanghai-Tower-Gensler-San-Francisco-world-Oriental-2015.jpg"
+          },
+          {
+            "type": "For Rent",
+            "address": "456 Elm Street",
+            "location": "New York, NY 10011",
+            "rooms": 2,
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "sqft": 750,
+            "price": 3000,
+            "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dubai_Marina_Skyline.jpg/1200px-Dubai_Marina_Skyline.jpg"
+          },
+          {
+            "type": "For Rent",
+            "address": "789 Oak Street",
+            "location": "Chicago, IL 60601",
+            "rooms": 3,
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "sqft": 1000,
+            "price": 2500,
+            "imageUrl":"https://media.istockphoto.com/id/511061090/photo/business-office-building-in-london-england.jpg?s=612x612&w=0&k=20&c=nYAn4JKoCqO1hMTjZiND1PAIWoABuy1BwH1MhaEoG6w="
+          },
+          {
+            "type": "For Sale",
+            "address": "1011 Maple Street",
+            "location": "Los Angeles, CA 90012",
+            "rooms": 5,
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "sqft": 2000,
+            "price": 20000,
+            "imageUrl":"https://cdn.britannica.com/73/114973-050-2DC46083/Midtown-Manhattan-Empire-State-Building-New-York.jpg"
+        }
+    ]      
+}

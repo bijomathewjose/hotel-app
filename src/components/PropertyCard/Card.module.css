@@ -1,0 +1,89 @@
+.Card{
+    background-color: #fff;
+    width: 350px;
+    min-width: 350px;
+    padding: 15px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+    height: 500px;
+    position: relative;
+}
+.close{
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    cursor: pointer;
+}
+.close div{
+    
+}
+
+.ImageContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    width: 100%;
+    aspect-ratio: 3/2;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.ImageContainer svg{
+    fill: #3739E4;
+    stroke: #3739E4;
+}
+.address{
+    display: flex;
+    gap: 2px;
+    align-items: center;
+    height: fit-content;
+}
+.address h3{
+    font-size: 13px;
+    font-weight: 500;
+}
+.address svg{
+    padding: 0;
+    margin: 0;
+    fill: #8E7F5E;
+    stroke: #8E7F5E;
+}
+.location{
+    font-size: 16px;
+    font-weight: 600;
+    color: #2a2a2a;;
+}
+.infoTags{
+    display: flex;
+    padding-bottom: 15px;
+    justify-content: space-evenly;
+    border-bottom: 1.5px dashed #2936512f;
+}
+.infoTags >div{
+    border-left: 1.5px dashed #2936512f;
+}
+.infoTags >div:first-child{
+    padding-left: 0px;
+    border-left: none;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    margin-bottom: 10px
+}
+.priceTag{
+    display: flex;
+    font-size: 13px;
+    font-weight: 600;
+    align-items: center;
+}
+.priceTag h3{
+    color:#3739E4;
+    font-size: 16px;
+    font-weight: 600;
+}

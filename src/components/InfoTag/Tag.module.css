@@ -1,0 +1,15 @@
+.Tag{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 13.5px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.Tag svg{
+    fill: #293651;
+    stroke: #293651;
+}

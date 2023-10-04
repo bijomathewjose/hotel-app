@@ -35,6 +35,15 @@ const Card = ({hotel,onClose}) => {
 
     return (
       <div className={Style.Card}>
+        
+        {hotel?.popular &&
+        <>
+        <div className={Style.popular}></div>
+        <div className={Style.popularContainer}>
+          Popular          
+        </div>
+        </>
+        }
         {onClose && <div className={Style.close}> 
         <Button onClick={onClose} customStyles={
           {...hotelTypeCustomStyle,...likeCustomStyle}}

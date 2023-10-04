@@ -17,9 +17,7 @@
     right: -15px;
     cursor: pointer;
 }
-.close div{
-    
-}
+
 
 .ImageContainer{
     display: flex;
@@ -86,4 +84,26 @@
     color:#3739E4;
     font-size: 16px;
     font-weight: 600;
+}
+.popularContainer{
+    position: absolute;
+    z-index: 2;
+    top: 210px;
+    left:-7px;
+    background-color: #3739E4;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 6.5px 25px;
+    border-radius: 7px 3px 3px 0px;
+}
+.popular{
+    position: absolute;
+    top: 230px;
+    left:-7px;
+    width: 7px;
+    height: 15px;
+    background-color: #242562;
+    border-radius: 0px 0px 0px 12px;
+
 }

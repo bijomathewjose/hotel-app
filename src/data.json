@@ -69,6 +69,7 @@
             "id":"6",
             "type": "For Rent",
             "address": "456 Elm Street",
+            "popular": true,
             "location": "New York, NY 10011",
             "state":"New York",
             "rooms": 2,
@@ -134,6 +135,7 @@
             "id":"11",
             "type": "For Rent",
             "address": "400 West 42nd Street",
+            "popular": true,
             "location": "Hell's Kitchen, NY 10036, United States",
             "state":" New York",
             "rooms": 3,
@@ -188,6 +190,7 @@
             "address": "326 West 37th Street",
             "location": "Hell's Kitchen, New York, NY 10018, United States",
             "state": "New York",
+            "popular": true,
             "rooms": 2,
             "beds": 1,
             "baths": 1,
@@ -209,7 +212,7 @@
             "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/36715258.jpg?k=d59d5763cae320ec89aa25df64a13e61a9401b3b87f43c0766f1ec4b78375b68&o=&hp=1"
         },
         {
-            "id": 17,
+            "id": "17",
             "type": "For Rent",
             "address": "330 West 40th Street",
             "location": "Hell's Kitchen, New York, NY 10018, United States",
@@ -222,7 +225,7 @@
             "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461625054.jpg?k=77210004c3c03edb566cb43541547c7d3015f6d4d7fcad8812999022e1168f29&o=&hp=1"
         },
         {
-            "id": 18,
+            "id": "18",
             "type": "For Rent",
             "address": "150 W 48th Street",
             "location": "New York, NY 10017, United States",
@@ -235,7 +238,7 @@
             "imageUrl": "https://cf.bstatic.com/xdata/images/landmark/max1024/234590.webp?k=0ebf9cb864952360666158e9489c1c84ba31368f23c9e2a70dfb79183bfc1756&o="
         },
         {
-            "id": 19,
+            "id": "19",
             "type": "For Rent",
             "address": "232 West 29th Street",
             "location": "Chelsea, New York, NY 10001, United States",
@@ -248,7 +251,7 @@
             "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234144191.jpg?k=37fc97eaff88c1158cd7c016504765e299d9689b892f5fe7947118a50b08978a&o=&hp=1"
         },
         {
-            "id": 20,
+            "id": "20",
             "type": "For Rent",
             "address": "525 8th Avenue",
             "location": "Hell's Kitchen, New York, NY 10018, United States",
@@ -258,7 +261,7 @@
             "baths": 1,
             "sqft": 750,
             "price": "3,000",
-            "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/324471670.jpg?k=f07cbc89a946fc8a119ed2750a553a93d90faae0b803ed1da"
+            "imageUrl":"https://www.ahstatic.com/photos/a568_ho_00_p_1024x768.jpg"
         }     
     ]      
 }

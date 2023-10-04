@@ -5,10 +5,11 @@ import Data from '../../data.json'
 import { useNavigate, useParams } from 'react-router-dom'
 const Property = () => {
   const navigate=useNavigate()
-  const hotel = Data.hotels.find(item=>item.id===useParams().id)
+  const {id}=useParams()
+  const hotel = Data.hotels.find(item=>String(item.id)===id)
   return (
 <div className={Style.container}>
-<Card hotel={hotel} onClose={()=>navigate(-1)}/>
+<Card hotel={hotel||{}} onClose={()=>navigate(-1)}/>
 
 </div>
     )
